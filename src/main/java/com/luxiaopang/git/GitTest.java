@@ -15,5 +15,7 @@ public class GitTest {
         
         System.out.println("pull test");
 
+        System.out.println("Gitee test");
+
     }
 }
