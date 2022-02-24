@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("Hello luxiaopang");
         System.out.println("Hello luxiaming");
         System.out.println("master 冲突 test");
+        System.out.println("hot-fix 冲突 test");
 
     }
 }
